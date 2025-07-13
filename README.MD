@@ -9,7 +9,7 @@
     <p>⚡ Fun fact <strong>u will find me almost always with a monster (<em>the drink</em>) on my desktop</strong></li>
 </div>
 
-<h3 style="margin-top: 30px" align="center">Connect with me:</h3>
+<h3 style="margin-top: 30px" align="left">Connect with me:</h3>
 <p style="display: flex; justify-content: center; gap: 25px; align-items: center; flex-wrap: wrap;">
     <a href="https://linkedin.com/in/christian-salazar-40909b302" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christian-salazar-40909b302" height="30"  width="40" />
@@ -19,7 +19,7 @@
     </a>
 </p>
 
-<h3 style="margin-top: 50px" align="center">Languages and Tools:</h3>
+<h3 style="margin-top: 50px" align="left">Languages and Tools:</h3>
 <p style="display: flex; justify-content: center; gap: 25px; align-items: center; flex-wrap: wrap; margin-bottom: 30px">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40"/>
