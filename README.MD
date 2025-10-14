@@ -85,7 +85,3 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40"/>
     </a>
 </p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srchr1s&show_icons=true&locale=en&layout=compact" alt="srchr1s" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srchr1s&" alt="srchr1s" /></p>
