@@ -17,7 +17,6 @@
 
 Desarrollador **Full-Stack** que disfruta construir productos de punta a punta: desde la interfaz hasta la API, la base de datos y el deploy.
 
-- 🔭 Actualmente trabajando en **SubNetum** y **MateSoft**
 - 🌱 Aprendiendo **ElectronJS** y explorando tecnologías emergentes
 - 💬 Pregúntame sobre **React, Express, Sequelize**... o cualquier cosa: si no la sé, la aprendo en 5 minutos 😄
 - ⚡ Dato curioso: siempre vas a encontrar una **Monster** en mi escritorio
