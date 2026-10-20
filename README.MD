@@ -17,7 +17,7 @@
 
 Desarrollador **Full-Stack** que disfruta construir productos de punta a punta: desde la interfaz hasta la API, la base de datos y el deploy.
 
-- 🌱 Aprendiendo **ElectronJS** y explorando tecnologías emergentes
+- 🌱 Aprendiendo **Go** y **Svelte** y explorando tecnologías emergentes
 - 💬 Pregúntame sobre **React, Express, Sequelize**... o cualquier cosa: si no la sé, la aprendo en 5 minutos 😄
 - ⚡ Dato curioso: siempre vas a encontrar una **Monster** en mi escritorio
 - 📍 **Venezuela 🇻🇪 → Argentina 🇦🇷**
@@ -51,7 +51,7 @@ Desarrollador **Full-Stack** que disfruta construir productos de punta a punta: 
   <tr>
     <td align="center"><b>🔧 DevOps & Tools</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,linux,electron" alt="Docker, Nginx, Git, GitHub, Linux, Electron" />
+      <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,linux" alt="Docker, Nginx, Git, GitHub, Linux" />
     </td>
   </tr>
 </table>
