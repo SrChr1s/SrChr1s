@@ -17,7 +17,7 @@
 
 Desarrollador **Full-Stack** que disfruta construir productos de punta a punta: desde la interfaz hasta la API, la base de datos y el deploy.
 
-- 🌱 Aprendiendo **Go** y **Svelte** y explorando tecnologías emergentes
+- 🌱 Aprendiendo **Go** y **Svelte**, mientras exploro otras tecnologías emergentes
 - 💬 Pregúntame sobre **React, Express, Sequelize**... o cualquier cosa: si no la sé, la aprendo en 5 minutos 😄
 - ⚡ Dato curioso: siempre vas a encontrar una **Monster** en mi escritorio
 - 📍 **Venezuela 🇻🇪 → Argentina 🇦🇷**
