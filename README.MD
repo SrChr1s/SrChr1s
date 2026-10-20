@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Christian Salazar <sub>(SrChr1s)</sub>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3F7CAC&center=true&vCenter=true&width=480&lines=Full-Stack+Developer;Venezolano+en+Argentina+%F0%9F%87%BB%F0%9F%87%AA+%E2%86%92+%F0%9F%87%A6%F0%9F%87%B7;Siempre+aprendiendo+tecnolog%C3%ADas+nuevas;Powered+by+caf%C3%A9+%26+Monster+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3F7CAC&center=true&vCenter=true&width=480&lines=Full-Stack+Developer;Venezolano+en+Argentina+%F0%9F%87%BB%F0%9F%87%AA+%E2%86%92+%F0%9F%87%A6%F0%9F%87%B7;Siempre+aprendiendo+tecnolog%C3%ADas+nuevas;Powered+by+caf%C3%A9+%26+Coca-Cola+%F0%9F%A5%A4)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-salazar-40909b302)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/srchr1s)
@@ -19,7 +19,7 @@ Desarrollador **Full-Stack** que disfruta construir productos de punta a punta: 
 
 - 🌱 Aprendiendo **Go** y **Svelte**, mientras exploro otras tecnologías emergentes
 - 💬 Pregúntame sobre **React, Express, Sequelize**... o cualquier cosa: si no la sé, la aprendo en 5 minutos 😄
-- ⚡ Dato curioso: siempre vas a encontrar una **Monster** en mi escritorio
+- ⚡ Dato curioso: siempre vas a encontrar una **Coca-Cola** 🥤 en mi escritorio
 - 📍 **Venezuela 🇻🇪 → Argentina 🇦🇷**
 
 ---
