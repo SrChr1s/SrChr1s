@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3F7CAC&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;Venezolano+en+Argentina+%F0%9F%87%BB%F0%9F%87%AA+%E2%86%92+%F0%9F%87%A6%F0%9F%87%B7;Siempre+aprendiendo+tecnolog%C3%ADas+nuevas;Powered+by+caf%C3%A9+%26+Coca-Cola+%F0%9F%A5%A4)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-salazar-40909b302)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srchr1s/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/srchr1s)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c.salazar.vzla@gmail.com)
 [![CV](https://img.shields.io/badge/Curriculum-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1DlA79tvMQfTEHHfOHaSCaVNT7RikWb5U/view?usp=sharing)
